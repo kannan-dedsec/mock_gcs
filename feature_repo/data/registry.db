@@ -1,0 +1,31 @@
+
+O
+/
+__dummy"
+__dummy_idJstock_prediction_project
+áãÀÈÀ…ß·áãÀÈÀ…ß·
+N
+.
+stock_id"stock_idJstock_prediction_project
+áãÀÈ˜˜ë·áãÀÈ˜˜ë·1"$f7148103-4609-4f79-811d-a7f20b36db99*àäÀÈĞ«Äù2€
+µ
+stock_featuresstock_prediction_projectstock_id"
+open"
+high"
+low"	
+close"
+
+volume"	
+ma_10"
+
+target2€£:	timestampZ../processed/stocks.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢../processed/stocks.parquet’áãÀÈ Øï¥"áãÀÈøğÃ·@b
+stock_idF
+áãÀÈˆ¬ô·àäÀÈ˜ñ¥ù
+–Á»È¨¿¿Ä€³¿È
+€¡Ã€³¿ÈR–
+“
+,feast.infra.online_stores.sqlite.SqliteTable"c
+8/home/jupyter/mock_gcs/feature_repo/data/online_store.db'stock_prediction_project_stock_featuresb¸	timestampZ../processed/stocks.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢../processed/stocks.parquetªstock_prediction_project’áãÀÈ Øï¥"áãÀÈøğÃ·Š:
+
+stock_prediction_project
+áãÀÈ Àô¦áãÀÈ Àô¦
