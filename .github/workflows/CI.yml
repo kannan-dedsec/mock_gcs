@@ -3,7 +3,7 @@ name: Model Validation
 
 on:
   push:
-    branches: [main]
+    branches: [master]
 
 jobs:
   test-model:
