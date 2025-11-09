@@ -33,7 +33,7 @@ jobs:
       - name: Configure DVC Remote
         run: |
           # Example for GCS remote
-          dvc remote add -f test gcs://mlops_oppe_1 
+          dvc remote add -f test gs://mlops_oppe_1 
           dvc remote default test
 
 
