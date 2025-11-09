@@ -1,0 +1,2 @@
+['remote "test"']
+    url = gs://mlops_oppe_1
