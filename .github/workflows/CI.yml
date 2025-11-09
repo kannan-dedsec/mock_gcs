@@ -30,6 +30,13 @@ jobs:
         with:
           credentials_json: ${{ secrets.GCP_CREDENTIALS }}
 
+      - name: Configure DVC Remote
+        run: |
+          # Example for GCS remote
+          dvc remote add -f test gcs://mlops_oppe_1 
+          dvc remote default test
+
+
       - name: Pull data and model from DVC
         run: |
           dvc pull processed/stocks.parquet.dvc || echo "processed parquet already present"
